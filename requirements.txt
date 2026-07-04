@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+networkx
+flask
+joblib
+# Optional (only needed if you wire in slm_module.call_anthropic_slm):
+# anthropic
